@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/meganetaaan/suburi-obniz/issues"
   },
-  "homepage": "https://github.com/meganetaaan/suburi-obniz#readme"
+  "homepage": "https://github.com/meganetaaan/suburi-obniz#readme",
+  "dependencies": {
+    "obniz": "^1.9.2"
+  }
 }
